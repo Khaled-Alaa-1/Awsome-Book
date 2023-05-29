@@ -73,7 +73,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]( )
+- [Live Demo Link](https://khaled-alaa-1.github.io/Awsome-Book/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -108,6 +108,12 @@ Clone this repository to your desired folder:
 - GitHub: [Khaled-Alaa-1](https://github.com/Khaled-Alaa-1)
 - Twitter: [@Khaled86756991](https://twitter.com/Khaled86756991)
 - LinkedIn: [Khaled Alaa](https://www.linkedin.com/in/khaled-alaa-594bb9256/)
+
+👤 **José Fernández-Caminero**
+
+- GitHub: [@fdezcaminero](https://github.com/fdezcaminero)
+- Twitter: [@fdezcaminero](https://twitter.com/fdezcaminero)
+- LinkedIn: [José Fernández-Caminero](https://www.linkedin.com/in/fdezcaminero/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -153,7 +159,7 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT]() licensed.
+This project is [MIT](https://github.com/Khaled-Alaa-1/Awsome-Book/blob/Basic/MIT.md) licensed.
 
 
 
