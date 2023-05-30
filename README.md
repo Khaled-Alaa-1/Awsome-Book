@@ -159,9 +159,7 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Khaled-Alaa-1/Awsome-Book/blob/Basic/MIT.md) licensed.
-
-
+This project is [MIT](https://github.com/Khaled-Alaa-1/Awsome-Book/blob/main/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
