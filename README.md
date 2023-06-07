@@ -109,12 +109,6 @@ Clone this repository to your desired folder:
 - Twitter: [@Khaled86756991](https://twitter.com/Khaled86756991)
 - LinkedIn: [Khaled Alaa](https://www.linkedin.com/in/khaled-alaa-594bb9256/)
 
-👤 **José Fernández-Caminero**
-
-- GitHub: [@fdezcaminero](https://github.com/fdezcaminero)
-- Twitter: [@fdezcaminero](https://twitter.com/fdezcaminero)
-- LinkedIn: [José Fernández-Caminero](https://www.linkedin.com/in/fdezcaminero/)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
